@@ -26,6 +26,7 @@ require __DIR__.'/../app/setup.php';
 | and wonderful application we have prepared for them.
 |
 */
+echo "hello world"; exit;
 $mux = new \Pux\Mux;
 
 // Require Environment Variable
